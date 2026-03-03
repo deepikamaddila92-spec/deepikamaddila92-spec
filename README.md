@@ -9,6 +9,7 @@ I'm a 2nd year B.Tech student in Information Technology, learning to build thing
 
 ### Projects
 - 🔗 [Smart Expense Tracker](https://github.com/deepikamaddila92-spec/smart-expense-tracker) — a simple app to track daily and monthly expenses with live balance updates
+- 🔗 Study Buddy Matcher – GitHub: https://github.com/deepikamaddila92-spec/study-buddy-matcher-is a web application that connects students with compatible study partners based on subjects, availability, and preparation goals.
 
 ### Currently
 - 📚 2nd year B.Tech @ Vignan Institute of Information Technology
